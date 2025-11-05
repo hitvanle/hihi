@@ -11,7 +11,7 @@ import pytesseract
 if sys.stdout and hasattr(sys.stdout, "buffer"):
     sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8")
 
-load_dotenv()
+load_dotenv(r"C:\.env")
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 LANG = "vie+eng"
@@ -193,3 +193,4 @@ def main():
 
 if __name__=="__main__":
     main()
+
