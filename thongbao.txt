@@ -15,4 +15,4 @@ Hiện tại đã có bản cập nhật mới Beta 1.0.1:
 - Update model Gpt4.1
 - Update tính năng "Băng đạn" giúp giảm tình trạng limit-gpt4.1
 
-Bản cập nhật mới 1.0.2 sẽ sớm ra mắt vào 07h00 GMT+7 - 07/11/2025
+Bản cập nhật mới Beta 1.0.2 sẽ sớm ra mắt vào 07h00 GMT+7 - 07/11/2025
