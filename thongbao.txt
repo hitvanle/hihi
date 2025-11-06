@@ -3,6 +3,7 @@
  Lo mà học đi đừng có phụ thuộc vào cái app này
  Tỉ lệ đúng khá thấp nhưng sẽ cao dần theo thời gian
  Alt+1 nếu win+shift+s, Alt+3 nếu Ctrl+C
+  *Chú ý mở tool bằng quyền admin để tránh lỗi*
 
     ----------------------------------------
  -----(Update 06/11/2025-11h00 AM - GMT+7)-----
