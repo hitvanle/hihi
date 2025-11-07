@@ -6,10 +6,10 @@
   *Chú ý mở tool bằng quyền admin để tránh lỗi*
 
     ----------------------------------------
- -----(Update 06/11/2025-11h00 AM - GMT+7)-----
+ -----(Update 07/11/2025-11h00 AM - GMT+7)-----
             ---------------------
 
-Hiện tại đã có bản cập nhật mới Beta 1.0.1:
+Hiện tại đã có bản cập nhật mới Beta 1.0.2: Gatling Gun
 - Cải thiện thời gian trả lời câu hỏi
 - Thêm logic phân tích và so sánh giúp cải thiện độ chính xác
 - Thêm tính năng nhận diện hình ảnh và đọc nội dung hình ảnh qua clipboard
