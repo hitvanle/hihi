@@ -16,4 +16,6 @@ Hiện tại đã có bản cập nhật mới Beta 1.0.2: Gatling Gun
 - Update model Gpt4.1
 - Update tính năng "Băng đạn" giúp giảm tình trạng limit-gpt4.1
 
-Bản cập nhật mới Beta 1.0.2 sẽ sớm ra mắt vào 07h00 GMT+7 - 07/11/2025
+Bản cập nhật mới Beta 1.0.3 sẽ sớm ra mắt vào tuần sau. Hứa hẹn update
+nhiều tính năng mới, giao diện đẹp và nhẹ, giảm lag
+Update tiêp theo 1.1.0 hứa hẹn sẽ có trên MAC OS và Android OS
