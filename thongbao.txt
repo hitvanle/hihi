@@ -1,4 +1,4 @@
-                              THÔNG BÁO CÀI APP
+                THÔNG BÁO ĐẶC BIỆT
 
  Lo mà học đi đừng có phụ thuộc vào cái app này
  Tỉ lệ đúng khá thấp nhưng sẽ cao dần theo thời gian
@@ -6,16 +6,16 @@
   *Chú ý mở tool bằng quyền admin để tránh lỗi*
 
     ----------------------------------------
- -----(Update 07/11/2025-11h00 AM - GMT+7)-----
+ -----(Big update 23/11/2025-23h00  - GMT+7)-----
             ---------------------
 
-Hiện tại đã có bản cập nhật mới Beta 1.0.2: Gatling Gun
+Hiện tại đã có bản cập nhật mới Beta 1.5.6
 - Cải thiện thời gian trả lời câu hỏi
 - Thêm logic phân tích và so sánh giúp cải thiện độ chính xác
 - Thêm tính năng nhận diện hình ảnh và đọc nội dung hình ảnh qua clipboard
 - Update model Gpt4.1
-- Update tính năng "Băng đạn" giúp giảm tình trạng limit-gpt4.1
+- Update không giới hạn lượt hỏi. tuy nhiên hạn chế hỏi bằng ảnh chụp
+màn hình vì đau ví tôi lắm
 
-Bản cập nhật mới Beta 1.0.3 sẽ sớm ra mắt vào tuần sau. Hứa hẹn update
-nhiều tính năng mới, giao diện đẹp và nhẹ, giảm lag
-Update tiêp theo 1.1.0 hứa hẹn sẽ có trên MAC OS và Android OS
+Có thể đây sẽ là bản cập nhật cuối cùng
+Chúc ae thi tốt
