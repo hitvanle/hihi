@@ -2,7 +2,7 @@
   "client_version": "3.0.0",
   "client_download_url": "",
   "client_notes": "Beta 3 client startup update.",
-  "data_version": "2026.05.11.2",
+  "data_version": "2026.05.11.3",
   "data_files": {
     "hospital_guidelines.db": {
       "url": "https://raw.githubusercontent.com/hitvanle/hihi/main/hospital_guidelines.db",
@@ -10,7 +10,7 @@
     },
     "hospital_medication.db": {
       "url": "https://raw.githubusercontent.com/hitvanle/hihi/main/hospital_medication.db",
-      "sha256": "a07da2202b4033e4592ca589c5b65662007e56950172e0e2266a6aee09a66aea"
+      "sha256": "2b9ff7789dcd42b421ab336fa065960213ae3688a66d58fa7535b0f9e3a036ce"
     }
   }
 }
